@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://meat-the-greek.be/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://meat-the-greek.be/assets/img/photo-table-partage.jpg</image:loc><image:title>Table du restaurant Meat the Greek</image:title></image:image>
+    <image:image><image:loc>https://meat-the-greek.be/assets/img/photo-facade.jpg</image:loc><image:title>Façade de Meat the Greek, chaussée de Vleurgat 7, Ixelles</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://meat-the-greek.be/traiteur.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://meat-the-greek.be/assets/img/photo-plats-vue-haut.jpg</image:loc><image:title>Gambas et scampis, traiteur Meat the Greek</image:title></image:image>
+  </url>
+</urlset>
